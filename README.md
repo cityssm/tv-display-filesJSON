@@ -1,4 +1,4 @@
-# TV Displays - Files.JSON Generator
+# TV Displays - files.json Generator
 
 This project will be a Java application that lives inside a folder of files.
 When run, the application will create or update a `files.json` file in the directory.

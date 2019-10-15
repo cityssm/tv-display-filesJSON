@@ -10,3 +10,13 @@ The idea is that a completely disconnected system could be updated with a USB ke
 The user could copy over the files, run the application, then refresh the browser.
 
 Right now, the generated json contains a filtered list of images in a property called "backgroundImages".
+
+## Usage
+
+If the JAR file is inside the same folder as the content:
+
+    > java -jar FilesJsonGenerator.jar
+    
+If the JAR file is in a different folder:
+
+    > java -jar FilesJsonGenerator.jar path/to/folder
